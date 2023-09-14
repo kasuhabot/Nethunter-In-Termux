@@ -1,13 +1,13 @@
 # Nethunter-In-Termux
-This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone 
+Ini adalah script untuk anda lakukan proses kemasukan ke dalam Sistem Terminal untuk Termux install Kali nethunter (Kali Linux) jadi anda yang pin ada untuk purchased ini.Link kan dengan github ini.
 ### Steps For Installation
-1. Download script in **HOME** `curl -LO https://raw.githubusercontent.com/Hax4us/Nethunter-In-Termux/master/kalinethunter`
-2. Give execution permission `chmod +x kalinethunter`
-3. Run script `./kalinethunter`
+1. MuatTurun script di buka Termux taip "cd" dan enter,Paparan terus copy step ini di terminal **HOME** `curl -LO https://raw.githubusercontent.com/kasuhabot/Nethunter-In-Termux/master/kalinethunter`
+2. Bagi kebenaran keizinan `chmod +x kalinethunter` tekan enter
+3. Mulakan script untuk aktif nethunter taip` ./kalinethunter` enter
 
 ### Usage 
-1. Use command `startkali` to start nethunter. Default user is __kali__ and default password is also __kali__.
-2. if you want to start nethunter as a root user then use command `startkali -r`.
+1. Gunakan kata arah `startkali` untuk menggunakan nethunter. Secara sendiri User guna Default __kali__ dan default password sama  __kali__. akan nama papar kali@kali atau kali@localhost .
+2. Anda nak gunakan nethunter dengan User secara root gunakan kata arah `startkali -r`.
 
 ### VNC Guide
 1. To start a vnc session `vnc start`
